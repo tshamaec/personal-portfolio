@@ -161,7 +161,7 @@
         e
       );
     })())(),
-    n = new /*#__PURE__*/ ((function () {
+    n = new ((function () {
       function t() {}
       var s = t.prototype;
       return (
@@ -195,7 +195,7 @@
         }),
         t
       );
-    })())(); /*#__PURE__*/
+    })())();
   return (function () {
     function t(t, s) {
       e.load(this, s, t), this.begin();
