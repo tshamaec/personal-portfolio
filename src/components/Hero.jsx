@@ -15,7 +15,9 @@ const Hero = () => {
             Analyst
           </span>
           <div>
-            <a href="public\Blue Simple Professional Resume.pdf" className="tris">Download CV</a>
+            <a href="Resume.pdf" className="tris">
+              Download CV
+            </a>
           </div>
           <span
             className="typed-cursor typed-cursor--blink"
